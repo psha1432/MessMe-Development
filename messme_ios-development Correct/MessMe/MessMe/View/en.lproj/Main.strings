@@ -1,0 +1,339 @@
+
+/* Class = "UILabel"; text = "Other Services"; ObjectID = "04g-Rn-NlH"; */
+"04g-Rn-NlH.text" = "Other Services";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "107-K3-BdZ"; */
+"107-K3-BdZ.placeholder" = "Name";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "2Cf-GX-fcy"; */
+"2Cf-GX-fcy.placeholder" = "Select";
+
+/* Class = "UILabel"; text = "Email Address"; ObjectID = "35k-J4-6rH"; */
+"35k-J4-6rH.text" = "Email Address";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata."; ObjectID = "3vX-Zw-HdI"; */
+"3vX-Zw-HdI.text" = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.";
+
+/* Class = "UILabel"; text = "Choose alert channel"; ObjectID = "4PC-ct-GDR"; */
+"4PC-ct-GDR.text" = "Choose alert channel";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "4Ui-r9-sb0"; */
+"4Ui-r9-sb0.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "4qx-lw-Xqw"; */
+"4qx-lw-Xqw.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "Alert1 :"; ObjectID = "57m-5R-yv5"; */
+"57m-5R-yv5.text" = "Alert1 :";
+
+/* Class = "UITextField"; placeholder = "   Select"; ObjectID = "6Gd-QQ-8FL"; */
+"6Gd-QQ-8FL.placeholder" = "   Select";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "6Gu-2A-3JN"; */
+"6Gu-2A-3JN.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "   My Current Warning"; ObjectID = "6fR-6A-5Bj"; */
+"6fR-6A-5Bj.text" = "   My Current Warning";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Dolor Sit Amet"; ObjectID = "73C-Fh-y6v"; */
+"73C-Fh-y6v.text" = "Lorem Ipsum Dolor Sit Amet";
+
+/* Class = "UILabel"; text = "Instance"; ObjectID = "7O2-Aq-CID"; */
+"7O2-Aq-CID.text" = "Instance";
+
+/* Class = "UILabel"; text = "Choose payment channel"; ObjectID = "7cj-Cf-fEY"; */
+"7cj-Cf-fEY.text" = "Choose payment channel";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "7fT-1a-3gk"; */
+"7fT-1a-3gk.text" = "Select";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata."; ObjectID = "7lc-iA-b4P"; */
+"7lc-iA-b4P.text" = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "8tS-tA-OtS"; */
+"8tS-tA-OtS.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8uG-jA-bLJ"; */
+"8uG-jA-bLJ.text" = "Label";
+
+/* Class = "UILabel"; text = "   Logout"; ObjectID = "8vG-y7-Oxt"; */
+"8vG-y7-Oxt.text" = "   Logout";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9MQ-2h-RNk"; */
+"9MQ-2h-RNk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "9Yv-Ro-5Wp"; */
+"9Yv-Ro-5Wp.normalTitle" = "Forgot Password?";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "A3Z-Pg-zKF"; */
+"A3Z-Pg-zKF.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "AOM-9j-POO"; */
+"AOM-9j-POO.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata."; ObjectID = "BPg-9E-Yy0"; */
+"BPg-9E-Yy0.text" = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata.";
+
+/* Class = "UILabel"; text = "Alert3 :"; ObjectID = "DR8-HT-MJN"; */
+"DR8-HT-MJN.text" = "Alert3 :";
+
+/* Class = "UIButton"; normalTitle = "Drop"; ObjectID = "DiY-2g-ihY"; */
+"DiY-2g-ihY.normalTitle" = "Drop";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F7S-RC-PNV"; */
+"F7S-RC-PNV.text" = "Label";
+
+/* Class = "UILabel"; text = "Date of creation"; ObjectID = "FBm-Jc-Pcc"; */
+"FBm-Jc-Pcc.text" = "Date of creation";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "FjS-4L-7D4"; */
+"FjS-4L-7D4.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Warning details"; ObjectID = "G3I-ti-j3b"; */
+"G3I-ti-j3b.text" = "Warning details";
+
+/* Class = "UILabel"; text = "Advertizing  Space"; ObjectID = "GGC-yg-lcR"; */
+"GGC-yg-lcR.text" = "Advertizing  Space";
+
+/* Class = "UILabel"; text = "Dropped"; ObjectID = "GME-EM-99B"; */
+"GME-EM-99B.text" = "Dropped";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "GQm-qE-MW3"; */
+"GQm-qE-MW3.placeholder" = "Email Address";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "IKT-X2-iMi"; */
+"IKT-X2-iMi.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Choose Language"; ObjectID = "IV7-4N-IUg"; */
+"IV7-4N-IUg.placeholder" = "Choose Language";
+
+/* Class = "UITextField"; text = "English"; ObjectID = "IV7-4N-IUg"; */
+"IV7-4N-IUg.text" = "English";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "IrI-Js-8hR"; */
+"IrI-Js-8hR.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "Choose Your Language"; ObjectID = "Irh-Lc-gR8"; */
+"Irh-Lc-gR8.text" = "Choose Your Language";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "KHm-JB-d6K"; */
+"KHm-JB-d6K.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "00:00"; ObjectID = "KS5-5Y-Uqd"; */
+"KS5-5Y-Uqd.placeholder" = "00:00";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "Ob9-dQ-CNs"; */
+"Ob9-dQ-CNs.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UIButton"; normalTitle = "Pay"; ObjectID = "OtS-2v-XYU"; */
+"OtS-2v-XYU.normalTitle" = "Pay";
+
+/* Class = "UIButton"; normalTitle = "My Account"; ObjectID = "PZ3-6q-7mc"; */
+"PZ3-6q-7mc.normalTitle" = "My Account";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "QAY-Gt-Je1"; */
+"QAY-Gt-Je1.placeholder" = "Email Address";
+
+/* Class = "UILabel"; text = "Lorem Ipsum Dolor Sit Amet has been dropped of your list."; ObjectID = "QU1-N5-hHB"; */
+"QU1-N5-hHB.text" = "Lorem Ipsum Dolor Sit Amet has been dropped of your list.";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Qol-pi-Lnr"; */
+"Qol-pi-Lnr.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Warning details"; ObjectID = "RAq-aE-8PF"; */
+"RAq-aE-8PF.text" = "Warning details";
+
+/* Class = "UILabel"; text = "07 May 2022"; ObjectID = "Rf4-yH-5U3"; */
+"Rf4-yH-5U3.text" = "07 May 2022";
+
+/* Class = "UILabel"; text = "   Add New Warning"; ObjectID = "RhC-Ab-v6k"; */
+"RhC-Ab-v6k.text" = "   Add New Warning";
+
+/* Class = "UIButton"; normalTitle = "Modify"; ObjectID = "RrI-8Y-muc"; */
+"RrI-8Y-muc.normalTitle" = "Modify";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "S3T-Ra-JXQ"; */
+"S3T-Ra-JXQ.text" = "SMS";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "SoB-e6-e6w"; */
+"SoB-e6-e6w.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "StY-PS-I0L"; */
+"StY-PS-I0L.placeholder" = "Phone Number";
+
+/* Class = "UILabel"; text = "   Birthday"; ObjectID = "US8-gc-GAX"; */
+"US8-gc-GAX.text" = "   Birthday";
+
+/* Class = "UILabel"; text = "   Other Service"; ObjectID = "Ubz-Pt-xUt"; */
+"Ubz-Pt-xUt.text" = "   Other Service";
+
+/* Class = "UILabel"; text = "Advertizing  Space"; ObjectID = "Uh4-h6-aDi"; */
+"Uh4-h6-aDi.text" = "Advertizing  Space";
+
+/* Class = "UILabel"; text = "  Lorem Ipsum Doler Sit Amet"; ObjectID = "VkZ-sP-Y8D"; */
+"VkZ-sP-Y8D.text" = "  Lorem Ipsum Doler Sit Amet";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "VlB-FA-id1"; */
+"VlB-FA-id1.normalTitle" = "OK";
+
+/* Class = "UITextField"; placeholder = "Your First Name"; ObjectID = "WEj-Pj-KUn"; */
+"WEj-Pj-KUn.placeholder" = "Your First Name";
+
+/* Class = "UILabel"; text = "07 May 2022"; ObjectID = "Wv6-8N-Nq1"; */
+"Wv6-8N-Nq1.text" = "07 May 2022";
+
+/* Class = "UILabel"; text = "Advertizing  Space"; ObjectID = "WvX-Pr-uPp"; */
+"WvX-Pr-uPp.text" = "Advertizing  Space";
+
+/* Class = "UILabel"; text = "Create Account"; ObjectID = "XLW-he-xdD"; */
+"XLW-he-xdD.text" = "Create Account";
+
+/* Class = "UILabel"; text = "   Edit Profile Details"; ObjectID = "XWi-rk-SeF"; */
+"XWi-rk-SeF.text" = "   Edit Profile Details";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "YSx-NU-sk4"; */
+"YSx-NU-sk4.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "Create New Warning"; ObjectID = "Yvn-Zg-JLH"; */
+"Yvn-Zg-JLH.text" = "Create New Warning";
+
+/* Class = "UITextField"; placeholder = "00:00"; ObjectID = "Yyq-y0-cZN"; */
+"Yyq-y0-cZN.placeholder" = "00:00";
+
+/* Class = "UILabel"; text = "Advertizing  Space"; ObjectID = "Zdi-Lx-ge6"; */
+"Zdi-Lx-ge6.text" = "Advertizing  Space";
+
+/* Class = "UILabel"; text = "Warning details"; ObjectID = "b9W-M4-59c"; */
+"b9W-M4-59c.text" = "Warning details";
+
+/* Class = "UILabel"; text = "Date of expiration"; ObjectID = "b9w-6u-ojR"; */
+"b9w-6u-ojR.text" = "Date of expiration";
+
+/* Class = "UITextField"; placeholder = "00:00"; ObjectID = "bP1-be-vJc"; */
+"bP1-be-vJc.placeholder" = "00:00";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "c6F-hw-OTj"; */
+"c6F-hw-OTj.text" = "Login";
+
+/* Class = "UILabel"; text = "Date of expiration"; ObjectID = "cxM-pd-5CO"; */
+"cxM-pd-5CO.text" = "Date of expiration";
+
+/* Class = "UITextField"; placeholder = "00:00"; ObjectID = "dEY-uG-HNv"; */
+"dEY-uG-HNv.placeholder" = "00:00";
+
+/* Class = "UILabel"; text = "Welcome to your best platform of warning service"; ObjectID = "dNp-Wd-qUE"; */
+"dNp-Wd-qUE.text" = "Welcome to your best platform of warning service";
+
+/* Class = "UILabel"; text = "Modify"; ObjectID = "deB-G0-Z2X"; */
+"deB-G0-Z2X.text" = "Modify";
+
+/* Class = "UILabel"; text = "Warning name"; ObjectID = "ewy-Xt-2zv"; */
+"ewy-Xt-2zv.text" = "Warning name";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "fgC-QJ-dd3"; */
+"fgC-QJ-dd3.text" = "Edit Profile";
+
+/* Class = "UILabel"; text = "Instance"; ObjectID = "h0w-aG-3Pb"; */
+"h0w-aG-3Pb.text" = "Instance";
+
+/* Class = "UILabel"; text = "Enter a new date"; ObjectID = "hNa-rq-jhB"; */
+"hNa-rq-jhB.text" = "Enter a new date";
+
+/* Class = "UILabel"; text = "My Current Warning"; ObjectID = "hOw-XT-IjK"; */
+"hOw-XT-IjK.text" = "My Current Warning";
+
+/* Class = "UITextField"; placeholder = "Enter Amount"; ObjectID = "hTF-He-ag7"; */
+"hTF-He-ag7.placeholder" = "Enter Amount";
+
+/* Class = "UILabel"; text = "Choose billing method"; ObjectID = "i1p-13-u2p"; */
+"i1p-13-u2p.text" = "Choose billing method";
+
+/* Class = "UILabel"; text = "Welcome to your best platform of warning service"; ObjectID = "iEX-Li-zxS"; */
+"iEX-Li-zxS.text" = "Welcome to your best platform of warning service";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. "; ObjectID = "iGA-ae-wGz"; */
+"iGA-ae-wGz.text" = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "iP5-nm-bVQ"; */
+"iP5-nm-bVQ.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "izL-gm-YBJ"; */
+"izL-gm-YBJ.normalTitle" = "Create Account";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "kfb-wb-Qcb"; */
+"kfb-wb-Qcb.normalTitle" = "Sign In";
+
+/* Class = "UILabel"; text = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. "; ObjectID = "m1L-jn-Ajb"; */
+"m1L-jn-Ajb.text" = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy  eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "nbl-bG-pga"; */
+"nbl-bG-pga.text" = "Name";
+
+/* Class = "UILabel"; text = "Date of expiration"; ObjectID = "ncM-6I-Tnb"; */
+"ncM-6I-Tnb.text" = "Date of expiration";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "nn6-kO-WfX"; */
+"nn6-kO-WfX.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Bewise! Welcome to your warning back"; ObjectID = "q2s-K7-PTR"; */
+"q2s-K7-PTR.text" = "Bewise! Welcome to your warning back";
+
+/* Class = "UILabel"; text = "Alert2 :"; ObjectID = "qAT-tl-faG"; */
+"qAT-tl-faG.text" = "Alert2 :";
+
+/* Class = "UILabel"; text = "My Current Warning"; ObjectID = "rgv-3b-jd0"; */
+"rgv-3b-jd0.text" = "My Current Warning";
+
+/* Class = "UILabel"; text = "Select Warning Type"; ObjectID = "rhF-B4-Od0"; */
+"rhF-B4-Od0.text" = "Select Warning Type";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "sGd-sp-nYq"; */
+"sGd-sp-nYq.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "sj9-4S-mnH"; */
+"sj9-4S-mnH.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "   Select"; ObjectID = "upD-lh-BWe"; */
+"upD-lh-BWe.placeholder" = "   Select";
+
+/* Class = "UILabel"; text = "Edit Your Details Here"; ObjectID = "vE0-Td-CbB"; */
+"vE0-Td-CbB.text" = "Edit Your Details Here";
+
+/* Class = "UILabel"; text = "Welcome to your best platform of warning service"; ObjectID = "vtH-Yz-Cj9"; */
+"vtH-Yz-Cj9.text" = "Welcome to your best platform of warning service";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "w4C-Ee-YRp"; */
+"w4C-Ee-YRp.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Select"; ObjectID = "wZO-py-NVr"; */
+"wZO-py-NVr.placeholder" = "Select";
+
+/* Class = "UIButton"; normalTitle = "Create Your Account"; ObjectID = "whh-jq-vtb"; */
+"whh-jq-vtb.normalTitle" = "Create Your Account";
+
+/* Class = "UITextField"; placeholder = "DD/MM/YYYY"; ObjectID = "wun-xD-nir"; */
+"wun-xD-nir.placeholder" = "DD/MM/YYYY";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "xQl-Mh-Gjp"; */
+"xQl-Mh-Gjp.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Add New Warning"; ObjectID = "xYU-6g-zn0"; */
+"xYU-6g-zn0.normalTitle" = "Add New Warning";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "ymL-FC-Ooo"; */
+"ymL-FC-Ooo.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Instance"; ObjectID = "ywo-hx-crx"; */
+"ywo-hx-crx.text" = "Instance";
+
+/* Class = "UILabel"; text = "07 May 2022"; ObjectID = "zFG-eh-Nt4"; */
+"zFG-eh-Nt4.text" = "07 May 2022";
+
+/* Class = "UILabel"; text = "Enter Your Email"; ObjectID = "zGh-nK-ynQ"; */
+"zGh-nK-ynQ.text" = "Enter Your Email";
+
+/* Class = "UITextField"; placeholder = "Select Your Gender"; ObjectID = "zJk-e3-S1o"; */
+"zJk-e3-S1o.placeholder" = "Select Your Gender";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "zLd-s3-tjz"; */
+"zLd-s3-tjz.placeholder" = "Phone Number";

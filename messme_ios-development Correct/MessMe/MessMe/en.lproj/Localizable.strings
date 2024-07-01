@@ -1,0 +1,116 @@
+//  MessMe
+//
+//  Created by Prashant Sharma on 13/06/22.
+//
+
+"Please Enter Phone Number" = "Please Enter Phone Number";
+
+"Number Should Not Be Less Then 8 Digit" = "Number Should Not Be Less Then 8 Digit";
+
+"Please Fill Country Code" = "Please Fill Country Code";
+
+"Please Enter Password" = "Please Enter Password";
+
+"Enter 8 Digit Password" = "Enter 8 Digit Password";
+
+"Please Enter Confirm Password" = "Please Enter Confirm Password";
+
+"Password and Confirm Password is not matched." = "Password and Confirm Password is not matched.";
+
+"Please Enter Email" = "Please Enter Email";
+
+"Enter Proper Email" = "Enter Proper Email";
+
+"Please Enter DOB" = "Please Enter DOB";
+
+"Please Enter Valid DOB Date" = "Please Enter Valid DOB Date";
+
+"Select Your Gender" = "Select Your Gender";
+
+"Please Enter First Name" = "Please Enter First Name";
+
+"Please Enter Phone Number" = "Please Enter Phone Number";
+
+"Please Enter Country Code" = "Please Enter Country Code";
+
+"Please Enter your Password" = "Please Enter your Password";
+
+"Please Enter Date of Expiration" = "Please Enter Date of Expiration";
+
+"Enter Valid Date" = "Enter Valid Date";
+
+"Please Enter Instance" = "Please Enter Instance";
+
+"Please Enter Warning Detail" = "Please Enter Warning Detail";
+
+"Please Enter Warning Name" = "Please Enter Warning Name";
+
+"Please Enter Date of Expiration" = "Please Enter Date of Expiration";
+
+"Enter Valid Expiry Date" = "Enter Valid Expiry Date";
+
+"Please Enter Instance" = "Please Enter Instance";
+
+"Please Enter Instance" = "Please Enter Instance";
+
+"Please Enter Warning Detail" = "Please Enter Warning Detail";
+
+"Please Enter Warning Detail" = "Please Enter Warning Detail";
+
+"Please Select Warning Type" = "Please Select Warning Type";
+
+"Please Enter Warning Date" = "Please Enter Warning Date";
+
+"Enter One Time Valid Date" = "Enter One Time Valid Date";
+
+"Please Enter OneTime" = "Please Enter OneTime";
+
+"Choose Alert Channel" = "Choose Alert Channel";
+
+"Choose Payment Channel" = "Choose Payment Channel";
+
+"Please Enter Alert 1 Date" = "Please Enter Alert 1 Date";
+
+"Please Enter Alert 1 Valid Date" = "Please Enter Alert 1 Valid Date";
+
+"Please Enter Alert 1 Time" = "Please Enter Alert 1 Time";
+
+"Please Enter Alert 2 Date" = "Please Enter Alert 2 Date";
+
+"Please Enter Alert 2 Valid Date" = "Please Enter Alert 2 Valid Date";
+
+"Please Enter Alert 2 Time" = "Please Enter Alert 2 Time";
+
+"Please Enter Alert 3 Date" = "Please Enter Alert 3 Date";
+
+"Please Enter Alert 3 Valid Date" = "Please Enter Alert 3 Valid Date";
+
+"Please Enter Alert 3 Time" = "Please Enter Alert 3 Time";
+
+"Choose Alert Channel" = "Choose Alert Channel";
+
+"Choose Payment Channel" = "Choose Payment Channel";
+
+"Please Enter Amount" = "Please Enter Amount";
+
+"Please Enter Name" = "Please Enter Name";
+
+"Done" = "Done";
+
+"Please Enter Future Date of Expiry" = "Please Enter Future Date of Expiry";
+
+"Please Enter Alert 1 Future Date" = "Please Enter Alert 1 Future Date";
+
+"Please Enter Alert 2 Future Date" = "Please Enter Alert 2 Future Date";
+
+"Please Enter Alert 3 Future Date" = "Please Enter Alert 3 Future Date";
+
+"Please Enter Future Date of Warning" = "Please Enter Future Date of Warning";
+
+"Please Enter Expiration Future Date" = "Please Enter Expiration Future Date";
+
+"Cancel" = "Cancel";
+
+"Please Enter Your Email" = "Please Enter Your Email";
+
+"Password sent to your mail" = "Password sent to your mail";

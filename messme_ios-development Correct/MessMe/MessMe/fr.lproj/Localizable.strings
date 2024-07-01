@@ -1,0 +1,116 @@
+//  MessMe
+//
+//  Created by Prashant Sharma on 13/06/22.
+//
+
+"Please Enter Phone Number" = "Veuillez entrer le numéro de téléphone";
+
+"Number Should Not Be Less Then 8 Digit" = "Le numéro ne doit pas être inférieur à 8 chiffres";
+
+"Please Fill Country Code" = "Veuillez remplir le code du pays";
+
+"Please Enter Password" = "Veuillez entrer le mot de passe";
+
+"Enter 8 Digit Password" = "Entrez le mot de passe à 8 chiffres";
+
+"Please Enter Confirm Password" = "Veuillez saisir le mot de passe de confirmation";
+
+"Password and Confirm Password is not matched." = "Le mot de passe et la confirmation du mot de passe ne correspondent pas.";
+
+"Please Enter Email" = "Veuillez entrer un e-mail";
+
+"Enter Proper Email" = "Entrez le bon email";
+
+"Please Enter DOB" = "Veuillez entrer la date de naissance";
+
+"Please Enter Valid DOB Date" = "Veuillez entrer une date de naissance valide";
+
+"Select Your Gender" = "Sélectionnez votre sexe";
+
+"Please Enter First Name" = "Veuillez entrer votre prénom";
+
+"Please Enter Phone Number" = "Veuillez entrer le numéro de téléphone";
+
+"Please Enter Country Code" = "Veuillez entrer le code du pays";
+
+"Please Enter your Password" = "S'il vous plait entrez votre mot de passe";
+
+"Please Enter Date of Expiration" = "Veuillez entrer la date d'expiration";
+
+"Enter Valid Date" = "Entrez une date valide";
+
+"Please Enter Instance" = "Veuillez entrer l'instance";
+
+"Please Enter Warning Detail" = "Veuillez entrer les détails de l'avertissement";
+
+"Please Enter Warning Name" = "Veuillez entrer le nom d'avertissement";
+
+"Please Enter Date of Expiration" = "Veuillez entrer la date d'expiration";
+
+"Enter Valid Expiry Date" = "Entrez une date d'expiration valide";
+
+"Please Enter Instance" = "Veuillez entrer l'instance";
+
+"Please Enter Instance" = "Veuillez entrer l'instance";
+
+"Please Enter Warning Detail" = "Veuillez entrer les détails de l'avertissement";
+
+"Please Enter Warning Detail" = "Veuillez entrer les détails de l'avertissement";
+
+"Please Select Warning Type" = "Veuillez sélectionner le type d'avertissement";
+
+"Please Enter Warning Date" = "Veuillez saisir une date d'avertissement";
+
+"Enter One Time Valid Date" = "Entrez une date valide unique";
+
+"Please Enter OneTime" = "Veuillez entrer une fois";
+
+"Choose Alert Channel" = "Choisissez le canal d'alerte";
+
+"Choose Payment Channel" = "Choisir le canal de paiement";
+
+"Please Enter Alert 1 Date" = "Veuillez saisir la date de l'alerte 1";
+
+"Please Enter Alert 1 Valid Date" = "Veuillez saisir la date de validité de l'alerte 1";
+
+"Please Enter Alert 1 Time" = "Veuillez entrer l'heure d'alerte 1";
+
+"Please Enter Alert 2 Date" = "Veuillez saisir la date de l'alerte 2";
+
+"Please Enter Alert 2 Valid Date" = "Veuillez saisir la date de validité de l'alerte 2";
+
+"Please Enter Alert 2 Time" = "Veuillez entrer l'heure de l'alerte 2";
+
+"Please Enter Alert 3 Date" = "Veuillez entrer la date de l'alerte 3";
+
+"Please Enter Alert 3 Valid Date" = "Veuillez saisir la date de validité de l'alerte 3";
+
+"Please Enter Alert 3 Time" = "Veuillez entrer l'heure de l'alerte 3";
+
+"Choose Alert Channel" = "Choisissez le canal d'alerte";
+
+"Choose Payment Channel" = "Choisir le canal de paiement";
+
+"Please Enter Amount" = "Veuillez saisir le montant";
+
+"Please Enter Name" = "Veuillez entrer le nom";
+
+"Done" = "Fait";
+
+"Please Enter Future Date of Expiry" = "Veuillez entrer la date d'expiration future";
+
+"Please Enter Alert 1 Future Date" = "Veuillez saisir la date future de l'alerte 1";
+
+"Please Enter Alert 2 Future Date" = "Veuillez saisir la date future de l'alerte 2";
+
+"Please Enter Alert 3 Future Date" = "Veuillez saisir la date future de l'alerte 3";
+
+"Please Enter Future Date of Warning" = "Veuillez entrer la date future de l'avertissement";
+
+"Please Enter Expiration Future Date" = "Veuillez entrer la date d'expiration future";
+
+"Cancel" = "Annuler";
+
+"Please Enter Your Email" = "Veuillez entrer votre e-mail";
+
+"Password sent to your mail" = "Mot de passe envoyé à votre messagerie";

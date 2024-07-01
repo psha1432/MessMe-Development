@@ -1,0 +1,6 @@
+framework module Pods_MessMe {
+  umbrella header "Pods-MessMe-umbrella.h"
+
+  export *
+  module * { export * }
+}
